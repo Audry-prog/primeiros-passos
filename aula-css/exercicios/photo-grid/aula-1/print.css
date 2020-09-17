@@ -1,5 +1,5 @@
-@media screen and (min-width: 768px) {
-  
+@media print {
+
   .barra-superior {
     background-color: rgb(14, 13, 13);
     margin: auto;
@@ -96,29 +96,23 @@
     height: 380px;
   }
   
-  .conteiner4 {
-    display: flex; 
-  }
-
   .card2 {
-    width: 100%;
-    padding: 10px;
-    margin: 10px;
-    display: flex;
-    background-color: white;
-    align-items: center;
+    display: block;
+    width: 960px;
+    height: 600px;
   }
   
   .card2 img {
-    width: 400px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+
   }
 
   .card2 span {
-    display: flex;
     font-size: 20px;
     font-family: 'Barlow Condensed', sans-serif;
     text-align: center;
-    margin: 10px;
   } 
 
   .card {
