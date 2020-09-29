@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+input { /*-aplica por padrão a margin em todas tags input-*/
+   border:none;
+   background:#fafafa;
+   color:000;
+   margin: 10px;
+}
+
+button {
+  border: none;
+}
