@@ -10,7 +10,7 @@ programa {
           escreva ("\n|          C A L C U L A D O R A          |\n");
           escreva ("\n|         W O M A K E R S C O D E         |\n");
           escreva ("\n-------------------------------------------\n");
-	     escreva ("\n|           Escolha a Operação:           |\n");
+	      escreva ("\n|           Escolha a Operação:           |\n");
           escreva ("\n-------------------------------------------\n");
           escreva ("\n|           1- Somar                      |\n");
           escreva ("\n|           2- Subtrair                   |\n");
@@ -70,7 +70,7 @@ programa {
                resultado = num1 * num2;               
                escreva ("\n-----------------------------------------\n");
                escreva ("\nA multiplicação entre os números é: ", resultado"\n");
-           	escreva ("\n-----------------------------------------\n");          	
+           	   escreva ("\n-----------------------------------------\n");          	
            	           	         	
            }
             senao se (op == 4) {
@@ -86,7 +86,7 @@ programa {
                leia (num2);
                resultado = num1 / num2;               
                escreva ("\n-----------------------------------------\n");
-           	escreva ("\nA divisão entre os números é: ", resultado"\n");
+           	   escreva ("\nA divisão entre os números é: ", resultado"\n");
                escreva ("\n-----------------------------------------\n");
            	
            }
