@@ -14,7 +14,7 @@
     height: 250px;
   }
 
-  body {
+    body {
     background-color: #abc7b1;
     margin: auto;
     width: 960px;
@@ -107,10 +107,12 @@
     display: flex;
     background-color: white;
     align-items: center;
+    height: 380px;
+    
   }
   
   .card2 img {
-    width: 400px;
+    width: 100%;
   }
 
   .card2 span {
