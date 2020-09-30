@@ -53,21 +53,14 @@
     display: table-cell;
   }
 
-  .texto {
+  .texto p {
     display: table-cell;
     float: left;
     margin-top: -150px;
-    margin-left: 200px;
-    margin-right: 400px;
-  }
-
-  .texto p {
-    display: table-cell;
-    margin-top: -150px;
-    margin-left: 200px;
-    margin-right: 300px;
+    margin-left: 230px;
+    margin-right: 40px;
     font-size: 18px;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Dosis', sans-serif;
     text-align: left;
     color: black;
   }
